@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Waleed Ali Sarwar
+- 👋 Hi, I’m Waleed Ali Sarwar the .NET FULL Stack Devloper
 - 👀 I’m interested in Software Development and New Technologies of AI & ML
 - 🌱 I’m currently learning Web Designing + Development 
 - 📫 How to reach me ...
