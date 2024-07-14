@@ -19,7 +19,7 @@ Hi there! I'm Waleed Ali Sarwar, a passionate student of Bioinformatics and a de
 
 ### Full Stack Development
 - 🌐 **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
-- ⚙️ **Backend**: C#, ASP.NET Core, Node.js
+- ⚙️ **Backend**: C#, ASP.NET
 - 🗄️ **Databases**: SQL Server, MySQL, MongoDB
 - 🛠️ **Tools & Platforms**: Visual Studio, Git, Docker, Azure
 
@@ -34,8 +34,8 @@ Hi there! I'm Waleed Ali Sarwar, a passionate student of Bioinformatics and a de
 
 ## Get In Touch
 
-- 📧 Email: [your.email@example.com](mailto:waleed.alisarwar336@outlook.com)
-- 🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/waleed-ali-sarwar)
+- 📧 Email: [Waleed](mailto:waleed.alisarwar336@outlook.com)
+- 🌐 LinkedIn: [Waleed Ali Sarwar](https://linkedin.com/in/waleed-ali-sarwar)
 
 
 ## Contributions & Collaborations
