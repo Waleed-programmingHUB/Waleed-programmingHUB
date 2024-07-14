@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm [Your Name], a passionate student of Bioinformatics and a dedicated .NET Full Stack Developer. I am constantly exploring the fascinating intersections between biology and technology, and I'm excited to share my journey and projects with you.
+Hi there! I'm Waleed Ali Sarwar, a passionate student of Bioinformatics and a dedicated .NET Full Stack Developer. I am constantly exploring the fascinating intersections between biology and technology, and I'm excited to share my journey and projects with you.
 
 ## Education & Interests
 
@@ -14,6 +14,7 @@ Hi there! I'm [Your Name], a passionate student of Bioinformatics and a dedicate
 ### Bioinformatics
 - 🧬 Genomic Data Analysis
 - 🧫 Molecular Modeling
+- 🗄️ Proteomics
 - 🔬 Bioinformatics Tools: BLAST, ClustalW, etc.
 
 ### Full Stack Development
