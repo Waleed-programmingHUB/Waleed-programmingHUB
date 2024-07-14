@@ -26,12 +26,11 @@ Hi there! I'm Waleed Ali Sarwar, a passionate student of Bioinformatics and a de
 ## Projects
 
 ### Bioinformatics Projects
-- **[Genome Analysis Tool](https://github.com/yourusername/genome-analysis-tool)**: A tool for analyzing and visualizing genomic data.
-- **[Protein Structure Prediction](https://github.com/yourusername/protein-structure-prediction)**: A project focused on predicting protein structures using machine learning techniques.
+-- Not Created Yet.
 
 ### .NET Full Stack Projects
-- **[Project-Made](https://github.com/yourusername/e-commerce-platform)**: A full-featured Word-Counter,Detail Form Page, Calculator web application built with ASP.NET Web Forms.
-- **[Blog Platform](https://github.com/yourusername/blog-platform)**: A modern blog platform with user authentication, content management, and responsive design.
+- **[Project-Made](https://project-made.azurewebsites,net)**: A full-featured Word-Counter,Detail Form Page, Calculator web application built with ASP.NET Web Forms.
+- **[Notes Platform](https://notesmade.azurewebsites.net)**: A modern notes platform with user authentication, note management, and responsive design.
 
 ## Get In Touch
 
