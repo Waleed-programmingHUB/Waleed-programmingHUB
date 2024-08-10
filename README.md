@@ -21,7 +21,7 @@ Hi there! I'm Waleed Ali Sarwar, a passionate student of Bioinformatics and a de
 - 🌐 **Frontend**: HTML, CSS, JavaScript, TypeScript, Angular, React
 - ⚙️ **Backend**: C#, ASP.NET
 - 🗄️ **Databases**: SQL Server, MySQL, MongoDB
-- 🛠️ **Tools & Platforms**: Visual Studio, Git, Docker, Azure
+- 🛠️ **Tools & Platforms**: Visual Studio, Git, Azure
 
 ## Projects
 
